@@ -3,12 +3,21 @@
   "version": "1.0.0",
   "description": "fake server with fake database",
   "main": "server.js",
-  "scripts": { 
-    "start": "node server.js" 
+  "scripts": {
+    "start": "node server.js"
   },
   "author": "Youssef Zidan",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashgrn/principe-json-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dashgrn/principe-json-server/issues"
+  },
+  "homepage": "https://github.com/dashgrn/principe-json-server#readme"
 }
