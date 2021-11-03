@@ -54,7 +54,7 @@
     },
     {
       "name": "Crown Shirt",
-      "id": 2,
+      "id": 3,
       "description": "Wear the crown!",
       "category": "t-shirts2",
       "price": 99000,
@@ -80,7 +80,7 @@
     },
     {
       "name": "Br0 Shirt",
-      "id": 2,
+      "id": 4,
       "description": "For you and your Br0",
       "category": "t-shirts2",
       "price": 99000,
